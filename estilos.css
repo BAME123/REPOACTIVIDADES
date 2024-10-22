@@ -1,0 +1,62 @@
+h1{
+
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 30rem;
+}
+
+.navbar{
+
+    padding: 25px;;
+}
+
+footer{
+
+    margin-top: 20rem;
+
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: fuchsia;
+}
+
+button.carousel-control-prev,
+button.carousel-control-next {
+    background-color: fuchsia; 
+    border: none; 
+}
+
+.carousel-inner .carousel-item p {
+    text-align: center; 
+    font-size: 5rem;
+}
+.carouselExample{
+    margin-bottom: 9rem;
+
+}
+
+h2{
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+    margin-left: 35rem;
+}
+
+input{
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    margin-left: 35rem;
+    border-radius: 1rem;
+    border-color: aliceblue;
+}
+
+input:focus{
+    outline: none;
+}
+
+#calcular{
+    
+    margin-left: 41rem;
+    
+    
+}
